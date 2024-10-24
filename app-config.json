@@ -1,7 +1,7 @@
 {
   "schemaVersion": "v0.1",
   "isConfigured": true,
-  "organizationName": "Your Organization",
+  "organizationName": "SEWRL",
   "toolName": "Metadata Tool",
   "zones": [
     "Raw",
@@ -37,12 +37,12 @@
   ],
   "geometries": [
     {
-      "name": "Washington State",
-      "geojson": "{\"type\":\"Polygon\",\"coordinates\":[[[-124.82666015624999,45.55252525134013],[-117.02636718749999,45.55252525134013],[-117.02636718749999,49.009050809382046],[-124.82666015624999,49.009050809382046],[-124.82666015624999,45.55252525134013]]]}"
+      "name": "Geogia State",
+      "geojson": "{\"type\":\"Polygon\",\"coordinates\":[[[-80.7514266967773,35.0008316040039],[-85.6051712036133,30.3557567596436]]]}"
     },
     {
-      "name": "Pacific Northwest",
-      "geojson": "{\"type\":\"Polygon\",\"coordinates\":[[[-124.78271484375,42.00032514831621],[-111.07177734375,42.00032514831621],[-111.07177734375,48.99463598353405],[-124.78271484375,48.99463598353405],[-124.78271484375,42.00032514831621]]]}"
+      "name": "South Central Georgia",
+      "geojson": "{\"type\":\"Polygon\",\"coordinates\":[[[-84.07,30.86],[-82.64,32.65]]]}"
     }
   ],
   "tags": [
